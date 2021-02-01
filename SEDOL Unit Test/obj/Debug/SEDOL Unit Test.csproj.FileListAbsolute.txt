@@ -1,0 +1,2 @@
+C:\Users\91808\source\repos\SEDOL Unit Test\obj\Debug\SEDOL Unit Test.csprojAssemblyReference.cache
+C:\Users\91808\source\repos\SEDOL Unit Test\obj\Debug\SEDOL Unit Test.csproj.CoreCompileInputs.cache
