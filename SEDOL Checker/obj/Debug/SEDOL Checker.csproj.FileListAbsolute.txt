@@ -1,7 +1,0 @@
-C:\Users\91808\source\repos\SEDOL Checker\bin\Debug\SEDOL Checker.exe.config
-C:\Users\91808\source\repos\SEDOL Checker\bin\Debug\SEDOL Checker.exe
-C:\Users\91808\source\repos\SEDOL Checker\bin\Debug\SEDOL Checker.pdb
-C:\Users\91808\source\repos\SEDOL Checker\obj\Debug\SEDOL Checker.csprojAssemblyReference.cache
-C:\Users\91808\source\repos\SEDOL Checker\obj\Debug\SEDOL Checker.csproj.CoreCompileInputs.cache
-C:\Users\91808\source\repos\SEDOL Checker\obj\Debug\SEDOL Checker.exe
-C:\Users\91808\source\repos\SEDOL Checker\obj\Debug\SEDOL Checker.pdb
